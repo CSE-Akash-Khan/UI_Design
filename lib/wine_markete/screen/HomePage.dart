@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:ui_design/CustomColor.dart';
+
 import 'package:ui_design/model/WineInfo.dart';
-import 'package:ui_design/screen/TopSection.dart';
-import 'package:ui_design/screen/WineDetailsPage.dart';
+
+import '../CustomColor.dart';
+import 'TopSection.dart';
+import 'WineDetailsPage.dart';
 
 class HomePage extends StatelessWidget {
   HomePage({Key? key}) : super(key: key);

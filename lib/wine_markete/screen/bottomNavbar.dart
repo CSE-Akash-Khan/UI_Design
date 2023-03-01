@@ -1,7 +1,8 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:ui_design/screen/CheckOutList.dart';
-import 'package:ui_design/screen/HomePage.dart';
+
+import 'CheckOutList.dart';
+import 'HomePage.dart';
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({Key? key}) : super(key: key);
 

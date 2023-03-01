@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../model/WineInfo.dart';
+import '../../model/WineInfo.dart';
+
 class SelectedList extends StatelessWidget {
   SelectedList({
     super.key,
